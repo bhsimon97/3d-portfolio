@@ -15,10 +15,8 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  infosys,
+  revature,
   carrent,
   jobit,
   tripguide,
@@ -42,16 +40,20 @@ export const navLinks = [
 
 const services = [
   {
-    title: "React Developer",
+    title: "Testing",
     icon: web,
   },
   {
-    title: "Test Engineer",
+    title: "React",
     icon: mobile,
   },
   {
-    title: "Full Stack Developer",
+    title: "Full Stack",
     icon: backend,
+  },
+  {
+    title: "Web",
+    icon: creator,
   },
 ];
 
@@ -114,25 +116,25 @@ const experiences = [
   {
     title: "Software Engineer II - QA",
     company_name: "Infosys",
-    icon: starbucks,
-    iconBg: "#383E56",
+    icon: infosys,
+    iconBg: "#077CC3",
     date: "October 2022 - Present",
     points: [
       "Prevent defects from reaching production via development & debugging of 200+ automated test cases",
       "Ensure compliance to security requirements by implementing and maintaining Hitachi PAMUtil integration with all automated test cases",
       "Lead 3 QA Engineers through the initial testing lifecycle of enhancements to a client-facing API",
       "Facilitate cross-functional communication as the main point of contact for QA on two projects",
-      "Awarded with the Infosys RISE Rookie of the Quarter award in Q4 of 2022",
+      "Awarded with the Infosys RISE Rookie of the Quarter Award in Q4 of 2022",
     ],
   },
   {
     title: "Software Engineer I - QA",
     company_name: "Infosys",
-    icon: tesla,
-    iconBg: "#E6DEDD",
+    icon: infosys,
+    iconBg: "#077CC3",
     date: "April 2021 - October 2022",
     points: [
-      "Implemented simeltaneous execution of 20+ automated test cases within a Jenkins pipeline via Selenium Grid",
+      "Implemented simultaneous execution of 20+ automated test cases within a Jenkins pipeline via Selenium Grid",
       "Executed functional, automated, smoke, and black box testing within a 6-week regression / release cycle",
       "Prevented unnecessary access to client PII through use of CA TDM to create 4 large test data sets",
     ],
@@ -140,13 +142,13 @@ const experiences = [
   {
     title: "Associate Software Developer",
     company_name: "Revature",
-    icon: shopify,
-    iconBg: "#383E56",
+    icon: revature,
+    iconBg: "#F26926",
     date: "January 2021 - April 2021",
     points: [
       "Created three full-stack web applications including a surveying & data analysis dashboard, an e-commerce website, and a reimbursement management application",
       "Worked individually and in groups of 3 to 22 engineers to study software engineering principles and build full-stack web applications",
-      "Awarded with the Most Helpful Developer award for assisting in planning and development across the tech stack",
+      "Awarded with the Most Helpful Developer Award for assisting in planning and development across the tech stack",
     ],
   },
 ];
