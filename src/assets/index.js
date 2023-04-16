@@ -6,6 +6,7 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import web from "./web.svg";
+import externalLink from "./open-external-link-icon.png";
 
 import infosys from "./company/infosys.png";
 import revature from "./company/revature.png";
@@ -21,6 +22,7 @@ export {
   react,
   testing,
   github,
+  externalLink,
   menu,
   close,
   portfolio,

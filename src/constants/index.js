@@ -110,6 +110,7 @@ const projects = [
     ],
     image: portfolio,
     source_code_link: "https://github.com/bhsimon97/3d-portfolio",
+    hasGithub: true,
   },
   {
     name: "PowerMeet",
@@ -131,6 +132,7 @@ const projects = [
     ],
     image: powermeet,
     source_code_link: "http://www.powermeet.xyz",
+    hasGithub: false,
   },
   {
     name: "Margin Transit Utility",
@@ -152,6 +154,7 @@ const projects = [
     ],
     image: mtu,
     source_code_link: "https://www.dtcc.com/",
+    hasGithub: false,
   },
 ];
 
