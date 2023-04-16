@@ -12,7 +12,7 @@ import revature from "./company/revature.png";
 
 import portfolio from "./portfolio.png";
 import powermeet from "./powermeet.png";
-import tripguide from "./tripguide.png";
+import mtu from "./mtu.png";
 
 export {
   logo,
@@ -25,7 +25,7 @@ export {
   close,
   portfolio,
   powermeet,
-  tripguide,
+  mtu,
   infosys,
   revature,
 };

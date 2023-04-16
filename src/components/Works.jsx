@@ -51,7 +51,7 @@ const ProjectCard = ({
           <p className="mt-2 text-white text-[14px]">{description}</p>
         </div>
 
-        <div className="mt-4 flex flex-wrap gap-2">
+        <div className="mt-4 flex flex-wrap gap-2 font-bold">
           {tags.map((tag) => (
             <p
               key={`${name}-${tag.name}`}
@@ -81,8 +81,8 @@ const Works = () => {
         >
           The following projects showcase my skills and experience through
           real-world examples of my work. As some of these projects were
-          released in conjunction with other developers or done as part of
-          company-sponsored trainings, not all will have source code available.
+          released in conjunction with other developers or are owned by the
+          companies I've worked for, not all will have source code available.
         </motion.p>
       </div>
       <div className="mt-20 flex flex-wrap gap-7">

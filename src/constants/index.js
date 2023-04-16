@@ -7,7 +7,7 @@ import {
   revature,
   portfolio,
   powermeet,
-  tripguide,
+  mtu,
 } from "../assets";
 
 export const navLinks = [
@@ -133,25 +133,25 @@ const projects = [
     source_code_link: "http://www.powermeet.xyz",
   },
   {
-    name: "Trip Guide",
+    name: "Margin Transit Utility",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "MTU is an application owned by an Infosys client, DTCC, which allows users to validate, enrich, settle, report, and monitor matched collateral calls globally.",
     tags: [
       {
-        name: "nextjs",
+        name: "testing",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "selenium",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "java",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: mtu,
+    source_code_link: "https://www.dtcc.com/",
   },
 ];
 
