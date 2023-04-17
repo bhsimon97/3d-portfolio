@@ -8,6 +8,7 @@ import {
   portfolio,
   powermeet,
   mtu,
+  recur,
 } from "../assets";
 
 export const navLinks = [
@@ -154,6 +155,28 @@ const projects = [
     ],
     image: mtu,
     source_code_link: "https://www.dtcc.com/",
+    hasGithub: false,
+  },
+  {
+    name: "Recur",
+    description:
+      "Recur is a learning-to-code application built by Formation.dev using React and Material-UI. I built small features and fixed production bugs as needed.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "material ui",
+        color: "green-text-gradient",
+      },
+      {
+        name: "git",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: recur,
+    source_code_link: "https://www.recurcode.com",
     hasGithub: false,
   },
 ];

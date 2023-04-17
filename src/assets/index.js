@@ -14,6 +14,7 @@ import revature from "./company/revature.png";
 import portfolio from "./portfolio.png";
 import powermeet from "./powermeet.png";
 import mtu from "./mtu.png";
+import recur from "./recur.png";
 
 export {
   logo,
@@ -30,4 +31,5 @@ export {
   mtu,
   infosys,
   revature,
+  recur,
 };
