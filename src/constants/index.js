@@ -115,7 +115,7 @@ const projects = [
   {
     name: "PowerMeet",
     description:
-      "Web application that scrapes data from powerlifting federation websites and allows users to search and register for powerlifting meets.",
+      "Web application that scrapes data from powerlifting federations and allows users to search and register for powerlifting meets. Built with React, JS, Bootstrap, and Vercel.",
     tags: [
       {
         name: "react",
