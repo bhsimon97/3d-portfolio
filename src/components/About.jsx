@@ -48,7 +48,7 @@ const About = () => {
           "mt-4 text-secondary text-[17px] max-w-3xl leading-30x font-medium"
         }
       >
-        I am currently a Software Engineer in Quality Assurance at Infosys. My
+        I am currently a Software Development Engineer in Test at Infosys. My
         day-to-day generally consists of working within automated test suites
         and ensuring that our clients can ship enhancements to their
         applications without worrying about defects.

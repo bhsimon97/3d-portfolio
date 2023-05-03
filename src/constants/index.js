@@ -51,7 +51,7 @@ const services = [
 
 const experiences = [
   {
-    title: "Software Engineer II - QA",
+    title: "SDET II",
     company_name: "Infosys",
     icon: infosys,
     iconBg: "#077CC3",
@@ -65,7 +65,7 @@ const experiences = [
     ],
   },
   {
-    title: "Software Engineer I - QA",
+    title: "SDET I",
     company_name: "Infosys",
     icon: infosys,
     iconBg: "#077CC3",
